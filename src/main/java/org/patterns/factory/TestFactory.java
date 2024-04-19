@@ -1,9 +1,9 @@
-package org.patterns;
+package org.patterns.factory;
 
 import org.patterns.factory.Enemy;
 import org.patterns.factory.EnemyFactory;
 
-public class Main {
+public class TestFactory {
     public static void main(String[] args) {
         EnemyFactory enemyFactory = new EnemyFactory();
         Enemy warrior = enemyFactory.createEnemy("warrior", "Ursa");
