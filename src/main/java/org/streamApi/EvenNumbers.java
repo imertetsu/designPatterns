@@ -73,14 +73,6 @@ public class EvenNumbers {
                 .flatMap(l -> l.stream())
                 .toList();
         System.out.println(flattendList);
-
-        String cad = new String("Hello");
-        String cad1 = new String("Hello");
-        String cad2 = cad;
-        int a = 4;
-        int b = 4;
-
-        System.out.println("Variables iguales? "+ cad==cad2);
     }
 
     public static boolean containsDuplicate(int[] nums){
