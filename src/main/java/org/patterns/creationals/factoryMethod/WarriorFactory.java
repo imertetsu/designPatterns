@@ -1,4 +1,4 @@
-package org.patterns.factoryMethod;
+package org.patterns.creationals.factoryMethod;
 
 public class WarriorFactory extends EnemyFactory{
     @Override

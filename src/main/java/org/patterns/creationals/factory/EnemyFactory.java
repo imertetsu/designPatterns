@@ -1,4 +1,4 @@
-package org.patterns.factory;
+package org.patterns.creationals.factory;
 
 public class EnemyFactory {
     public Enemy createEnemy(String enemy, String name){

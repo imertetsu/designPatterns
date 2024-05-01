@@ -1,4 +1,4 @@
-package org.patterns.abstractFactory;
+package org.patterns.creationals.abstractFactory;
 
 public class HeavyArmor implements Armor{
     @Override

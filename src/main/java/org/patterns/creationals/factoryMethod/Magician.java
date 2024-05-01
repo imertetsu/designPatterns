@@ -1,6 +1,6 @@
-package org.patterns.factory;
+package org.patterns.creationals.factoryMethod;
 
-public class Magician implements Enemy{
+public class Magician implements Enemy {
     String name;
     public Magician(String name){
         this.name = name;

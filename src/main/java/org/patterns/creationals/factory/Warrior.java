@@ -1,4 +1,4 @@
-package org.patterns.factory;
+package org.patterns.creationals.factory;
 
 public class Warrior implements Enemy{
     String name;

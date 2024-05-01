@@ -1,7 +1,4 @@
-package org.patterns.factory;
-
-import org.patterns.factory.Enemy;
-import org.patterns.factory.EnemyFactory;
+package org.patterns.creationals.factory;
 
 public class TestFactory {
     public static void main(String[] args) {
